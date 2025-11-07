@@ -5,3 +5,10 @@
 ## 構成
 ### standard-library
 Pythonの標準ライブラリの使い方を学ぶためのコードを収録しています。
+
+## control-flow
+制御文のコードをまとめています。
+match case,for elseなど。
+
+## function-annotation
+型アノテーションについて動かしたコードとなっています。
