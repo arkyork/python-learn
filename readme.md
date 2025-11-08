@@ -11,4 +11,8 @@ Pythonの標準ライブラリの使い方を学ぶためのコードを収録�
 match case,for elseなど。
 
 ## function-annotation
-型アノテーションについて動かしたコードとなっています。
+型アノテーションを動かしたコードとなっています。
+typingなども。
+
+## read & write
+データのread writeについて。
